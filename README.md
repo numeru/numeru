@@ -1,10 +1,17 @@
-### Choi Young Gwang (numeru)
+## Choi Young Gwang (numeru)
 
+- Front-end Engineer
 - contact: numeru@naver.com
 
-#### Stack
+---
+
+### Stack
 
 - React
-- Javascript, TypeScript
+- JavaScript, TypeScript
 
-[![numeru's GitHub stats](https://github-readme-stats.vercel.app/api?username=numeru)](https://github.com/numeru/github-readme-stats)
+---
+
+[![numeru's GitHub stats](https://github-readme-stats.vercel.app/api?username=numeru&theme=dark)](https://github.com/numeru/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numeru&layout=compact)](https://github.com/numeru/github-readme-stats)
