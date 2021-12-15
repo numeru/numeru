@@ -23,20 +23,14 @@
   <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
 
-<br />
-
 <div>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=ReduxSaga&logoColor=white"/>
 </div>
 
-<br />
-
 <div>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
 </div>
-
-<br/>
 
 <div>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
