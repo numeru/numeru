@@ -1,4 +1,4 @@
-## 최영광 (numeru)
+# 최영광 (numeru)
 
 - 💻 Front-end Engineer
 - 📧 numeru@naver.com
