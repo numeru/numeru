@@ -1,9 +1,8 @@
-## Choi Young Gwang (numeru)
+# 👋 최영광 (numeru)
 
-- Front-end Engineer
-- contact : numeru@naver.com
+- 💻 Front-end Engineer
+- 📧 numeru@naver.com
 
-### Stack
+## 🛠 Stacks
 
-- React
-- JavaScript, TypeScript
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/>
