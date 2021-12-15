@@ -3,7 +3,7 @@
 - 💻 Front-end Engineer
 - 📧 numeru@naver.com
 
-### 🌱 Interested In
+### 🌱 Learning
 
 <div>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
