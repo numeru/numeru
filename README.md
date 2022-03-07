@@ -1,7 +1,7 @@
 # 최영광
 
-- 💻 Front-end Engineer
-- 📧 numeru@naver.com
+💻 Front-end Engineer
+📧 numeru@naver.com
 
 ### 📖 Studying
 
