@@ -1,8 +1,6 @@
 # 최영광
 
 🧑🏻‍💻 Frontend Developer
-<br />
-📮 numeru@naver.com
 
 ### 📖 Studying
 
